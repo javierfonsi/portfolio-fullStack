@@ -48,7 +48,7 @@ export default function About() {
                     <li key={index}><Box component={'span'} mr={'1rem'}>{hobby.emoji}</Box>{hobby.label}</li>
                 ))}
             </ul>
-            <a href={'https://drive.google.com/file/d/1cn9oJUJBFD1nx4newTwKks_Qqnhnq0b2/view?usp=sharing'}>Descargar CV </a>
+            <a href={'https://drive.google.com/file/d/17NacWsTDJ9Z7f8z4ABrAbelIUnAMyaGj/view?usp=sharing'}>Descargar CV </a>
         </>;
     }
 
