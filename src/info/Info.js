@@ -39,7 +39,7 @@ export const info = {
         },
         {
             emoji: '🗿',
-            text: 'Vivo en Chámeza - Casanare'
+            text: 'Vivo en Bogotá - Colombia'
         },
         {
             emoji: "📧",
@@ -81,7 +81,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Soy Javier Fonseca. Finalicé estudios de pregrado como Ingeniero Electrónico en la universidad Santo Tomás, sede Bogotá. Ejercí durante una decada como profesional de campo, sin embargo, mi pasión es la programación, por esto disfruto mi trabajo como desarrollador back End. Desde mi experiencia he brindado soluciones a las necesidades de los usuarios a través de la tecnología, lo cual les ha permitido mejorar sus condiciones de vida.",
+    bio: "Soy Javier Fonseca. Finalicé estudios de pregrado como Ingeniero Electrónico en la universidad Santo Tomás, sede Bogotá. Ejercí durante una decada como profesional de campo, sin embargo, mi pasión es la programación, por esto disfruto mi trabajo como desarrollador web. Desde mi experiencia he brindado soluciones a las necesidades de los usuarios a través de la tecnología, lo cual les ha permitido mejorar sus condiciones de vida.",
     skills:
         {
             competentecon: ['javascript', 'nodejs', 'express', 'postgress', 'git', 'github', 'html5', 'css3'],
@@ -93,25 +93,21 @@ export const info = {
             label: 'Leer',
             emoji: '📖'
         },
-        //{
-        //    label: 'Orar',
-        //    emoji: '⛪'
-        //},
         {
             label: 'Viajar',
             emoji: '✈'
         },
         {
-            label: 'Ver peliculas',
+            label: 'Aprender nuevas tecnologías',
             emoji: '🎥'
         },
         {
-            label: 'Cocinar',
-            emoji: '🌶'
+            label: 'Practicar',
+            emoji: '📥'
         }//,
         //{
         //    label: 'Descargar cv',
-        //    emoji: '📥',
+        //    emoji: '📥🌶',
         //}
         
 
